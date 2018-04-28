@@ -2,18 +2,18 @@
 ; "Universal" Text
 ; For everything too generic or used in multiple places.
 ;
- 
+
 ; Used mostly in menu buttons
 全体=General
 変形まとめ=Slider List
 コピー=Copy
- 
+
 ; Used as both a Profile heading as well as a clothing type
 部活=Club Activities
- 
+
 ; Used as a clothing outfit type as well as clothing, period
 体操着=Gym Uniform
- 
+
 ; Used in multiple right sidebar expression choices
 デフォルト=Default
 怒り=Angry
@@ -25,7 +25,7 @@
 嫌悪=Hate
 焦り=Impatient
 驚き=Surprised
- 
+
 ; Used in Eye/Head Tracking right sidebar options
 カメラ=At Camera
 上=Upward
@@ -37,17 +37,17 @@
 右=Right
 右上=Right and Up
 そらす=Avert Gaze
- 
+
 ; Used in a handful of places, such as Face -> Overall
 なし=None
- 
+
 ; Used in a handful of places, such as Face -> Eyebrows
 しない=No
 する=Yes
- 
+
 ; Used in a handful of places, such as for expressions as well as pubic hair
 三角=Triangle
- 
+
 ; Used for both Facepaint as well as Body Paint
 ペイント０１の種類=Paint 01 Type
 ペイント０１の色=Paint 01 Color
@@ -55,26 +55,26 @@
 ペイント０２の種類=Paint 02 Type
 ペイント０２の色=Paint 02 Color
 ペイント０２回転=Paint 02 Rotation
- 
+
 ; Slider Notice (Red Text)
 ; Note is currently bugged - translation plugin doesn't act on string. Due to color codes/HTML?
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
- 
+
 ; Used for Profile -> Perversions/Nature
 YES=Yes
 NO=No
- 
+
 ; Used for Profile -> Name/Nickname Entry Boxes
 決定=Accept
 キャンセル=Cancel
- 
+
 ; Used in a few different spots
 ランダム=Random
- 
+
 ; Generic dialogue box confirmations
 はい=Yes
 いいえ=No
- 
+
 ; Type List Slots
 タイプ１=Type 1
 タイプ２=Type 2
@@ -153,44 +153,44 @@ NO=No
 タイプ７５=Type 75
 タイプ７６=Type 76
 タイプ７７=Type 77
- 
+
 ;
 ; Clothing Selection Stuff
 ;
- 
+
 コーディネートタイプ=Uniform Type
 学生服（校内）=In School
 学生服（下校）=Leaving School
 水着=Swimsuit
 私服=Casual Clothes
 お泊り=Sleeping Over
- 
+
 ;
 ; Right Sidebar Label
 ;
- 
+
 確認操作パネル=Control Panel
- 
+
 ; Right Sidebar -> Clothing State Options
- 
+
 服の状態=Clothing State
 自動=Auto
 着衣=Clothed
 下着=Underwear
 全裸=Naked
- 
+
 ; Right Sidebar -> Shoe Type Options
- 
+
 表示する靴のタイプ=Displayed Shoe Type
 内履き=Indoors
 外履き=Outdoors
- 
+
 ; Right Sidebar -> Show Accessory Options
- 
+
 アクセサリの表示=Show Accessories
 メイン=Main
 サブ=Sub
- 
+
 ; Right Sidebar -> Eye/Mouth Pattern Labels
 眉のパターン=Eyebrow Pattern
 目のパターン=Eye Pattern
@@ -198,7 +198,7 @@ NO=No
 瞬きをしない=Disable Blinking
 口のパターン=Mouth Pattern
 口の開き=Mouth Openness
- 
+
 ; Right Sidebar -> Eyebrow Patterns
 困り=Worried
 疑問L=Doubt L
@@ -210,7 +210,7 @@ NO=No
 不安=Anxious
 ウィンクL=Winking L
 ウィンクR=Winking R
- 
+
 ; Right Sidebar -> Eye Patterns
 両目閉じ=Closed
 笑顔　両目閉じ=Happy, Closed
@@ -243,7 +243,7 @@ NO=No
 未使用４ 左２=Unused 4 (Left 2)
 未使用５ 右２=Unused 5 (Right 2)
 未使用６ 閉じ２=Unused 6 (Closed 2)
- 
+
 ; Right Sidebar -> Mouth Patterns
 嬉しい=Happy (Broad)
 嬉しいs=Happy (Moderate)
@@ -281,19 +281,19 @@ NO=No
 未：アンタってさー=You Are...?
 未：いい度胸ね=Some Nerve, Huh?
 未：むー=Grr—
- 
+
 ; Right Sidebar -> Gaze Direction Options
 視線の向き=Gaze Direction
 首の向き=Head Direction
 ポーズ=Pose
- 
+
 ; Right Sidebar -> Gaze Direction Selections
 視線の向き調整=Eye Adjustment Tuning
- 
+
 ; Right Sidebar -> Head Direction Selections
 首の向き調整=Head Adjustment Tuning
 アニメ=From Animation
- 
+
 ; Right Sidebar -> Pose Selections
 基本=Basic
 揺れ=Bouncing
@@ -355,30 +355,30 @@ NO=No
 未：Hポーズ３=H-Pose 3
 未：Hポーズ４=H-Pose 4
 未：Hポーズ５=H-Pose 5
- 
+
 ; Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
 X=X
 Y=Y
 ライトの向きを初期化=Reset Light Direction
- 
+
 ; Right Sidebar -> Background Options
- 
+
 背景の種類=Background
 画像=Image
 単色=Static
 背景色=Color
- 
+
 ; Right Sidebar -> Frame Options
- 
+
 撮影フレーム=Photography Frame
 前面フレームを表示=Show Foreground Frame
 背面フレームを表示=Show Background Frame
- 
+
 ;
 ; Color Picker Menu
 ;
- 
+
 カラー=Color
 ピッカー=Picker
 スライダー=Slider
@@ -398,11 +398,11 @@ RGB=RGB
 左クリックで適用=Left-Click To Apply
 左クリックで現在のカラーを登録します=Left-Click To Copy Current Color
 左クリックで適応、右クリックで削除します=Left-Click To Apply, Right-Click To Delete
- 
+
 ;
 ; Face Menu
 ;
- 
+
 耳=Ears
 顎=Jaw
 頬=Cheeks
@@ -413,7 +413,7 @@ RGB=RGB
 口=Mouth
 ホクロ=Mole
 化粧(基本)=Makeup
- 
+
 ; Face -> General
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
@@ -423,21 +423,21 @@ RGB=RGB
 顔の下部横幅=Lower Face Width
 特殊表現の種類=Face Overlay Type
 特殊表現の強さ=Face Overlay Strength
- 
+
 ; Face -> General -> Face Overlay Types
 シワ=Wrinkles
 強調１=Emphasis 1
 強調２=Emphasis 2
 境界線=Boundary Lines
 目周りの影=Shadowed Eyes
- 
+
 ; Face -> Ears
 耳のサイズ=Ear Size
 耳の角度Y軸=Ear Angle Y Axis
 耳の角度Z軸=Ear Angle Z Axis
 耳の上部形状=Ear Upper Shape
 耳の下部形状=Ear Lower Shape
- 
+
 ; Face -> Jaw
 顎の下部上下=Lower Jaw Vertical Position
 顎の下部奥行=Lower Jaw Depth
@@ -447,7 +447,7 @@ RGB=RGB
 顎先の上下=Chin Vertical Position
 顎先の前後=Chin Depth
 顎先の幅=Chin Width
- 
+
 ; Face -> Cheeks
 頬骨の幅=Cheekbone Width
 頬骨の前後=Cheekbone Depth
@@ -455,7 +455,7 @@ RGB=RGB
 頬の前後=Cheek Depth
 頬の上下=Cheek Vertical Position
 頬のツヤの強さ=Cheek Gloss
- 
+
 ; Face -> Eyebrows
 眉の上下=Eyebrow Vertical Position
 眉の横位置=Eyebrow Spacing
@@ -469,7 +469,7 @@ RGB=RGB
 眉の色を髪の色に合わせる=Copy Hair Color To Eyebrows
 眉の色を陰毛の色に合わせる=Copy Pubic Hair Color To Eyebrows
 コンフィグ依存=Config Decides
- 
+
 ; Face -> Eyes
 上まぶたの形状１=Upper Eyelid Shape 1
 上まぶたの形状２=Upper Eyelid Shape 2
@@ -488,7 +488,7 @@ RGB=RGB
 アイライン上の種類=Upper Eyeliner Type
 アイライン下の種類=Lower Eyeliner Type
 アイラインの色=Eyeliner Color
- 
+
 ; Face -> Iris
 白目のグラデ種類=Sclera Type
 白目の色①=Sclera Color ①
@@ -520,13 +520,13 @@ RGB=RGB
 左目の設定を右目に反映=Copy Left Eye To Right
 右目の設定を左目に反映=Copy Right Eye To Left
 ※ 現在の目のパターンではアイシャドウは表示されません。=※ Eyeshadow cannot be displayed with this pattern.
- 
+
 ; Face -> Nose
 鼻先の高さ=Nose Tip Height
 鼻の上下=Nose Vertical Position
 鼻筋の高さ=Nose Ridge Height
 鼻の種類=Nose Type
- 
+
 ; Face -> Mouth
 口の上下=Mouth Vertical Position
 口の横幅=Mouth Width
@@ -538,7 +538,7 @@ RGB=RGB
 リップラインの色=Lip Line Color
 唇のツヤの強さ=Lip Gloss
 八重歯を表示する=Enable Fangs
- 
+
 ; Face -> Moles
 ホクロの種類=Mole Type
 ホクロの色=Mole Color
@@ -546,11 +546,11 @@ RGB=RGB
 ホクロの上下位置=Mole Vertical Position
 ホクロの大きさ=Mole Size
 ホクロ位置プリセット=Mole Position Presets
- 
+
 ; Face -> Moles -> Mole Types
 そばかす１=Freckles 1
 そばかす２=Freckles 2
- 
+
 ; Face -> Moles -> Mole Position Presets
 ホクロ配置=Mole Position
 左の口元=Left Lower Lip
@@ -561,7 +561,7 @@ RGB=RGB
 右の目元=Right Eye
 額中央=Middle of Forehead
 そばかす=Freckles
- 
+
 ; Face -> Makeup
 アイシャドウの種類=Eyeshadow Type
 アイシャドウの色=Eye Shadow Color
@@ -580,7 +580,7 @@ RGB=RGB
 ;Paint 01 Rotation
 ペイント０１大きさ=Paint 01 Size
 ペイント０１位置プリセット=Paint 01 Position Presets
- 
+
 フェイスペイント０２の種類=Facepaint 02 Type
 ;Paint 02 Type
 ;Paint 02 Color
@@ -589,7 +589,7 @@ RGB=RGB
 ;Paint 02 Rotation
 ペイント０２大きさ=Paint 02 Size
 ペイント０２位置プリセット=Paint 02 Position Presets
- 
+
 ; Face -> Type -> Makeup Types
 ハート=Heart
 水滴=Water Droplet
@@ -612,12 +612,12 @@ RGB=RGB
 第三の目=Third Eye
 ドクロ=Skull
 絆創膏=Bandage
- 
+
 ; Face -> Paint -> Position Presets
 左頬=Left Side of Face
 右頬=Right Side of Face
 おでこ=Forehead
- 
+
 ; Face -> Sliders
 最小=Minimum
 最大=Maximum
@@ -625,11 +625,11 @@ RGB=RGB
 顎の先上下=Chin Tip
 顎の先前後=Chin Depth
 顎の先幅=Chin Width
- 
+
 ;
 ; Body Menu
 ;
- 
+
 胸=Chest
 上半身=Upper Body
 下半身=Lower Body
@@ -639,7 +639,7 @@ RGB=RGB
 陰毛=Pubic Hair
 日焼け跡=Suntan
 ペイント=Body Paint
- 
+
 ; Body -> Overall
 身長=Body Height
 頭のサイズ=Head Size
@@ -649,12 +649,12 @@ RGB=RGB
 肌の色(赤み部分)=Skin Color (Redder Areas)
 肌のツヤの強さ=Skin Gloss
 肌ラインを表示する=Display Skin Detail Lines
- 
+
 ; Body -> Overall -> Skin Types
 ムキムキ=Muscular
 ポッチャリ=Chubby
 スレンダー=Slender
- 
+
 ; Body -> Chest
 胸のサイズ=Breast Size
 胸の上下位置=Breast Vertical Position
@@ -672,7 +672,7 @@ RGB=RGB
 乳首の種類=Nipple Type
 乳首の色=Nipple Color
 乳首のツヤ強さ=Nipple Gloss
- 
+
 ; Body -> Upper Body
 首周りの幅=Neck Width
 首周りの奥=Neck Thickness
@@ -682,7 +682,7 @@ RGB=RGB
 胴体上の奥=Upper Torso Thickness
 胴体下の幅=Lower Torso Width
 胴体下の奥=Lower Torso Thickness
- 
+
 ; Body -> Lower Body
 ウエストの位置=Waist Position
 腹部=Belly Thickness
@@ -692,7 +692,7 @@ RGB=RGB
 腰下の奥=Hip Thickness
 尻のサイズ=Butt Size
 尻の角度=Butt Angle
- 
+
 ; Body -> Arms
 肩幅=Shoulder Width
 肩の奥=Shoulder Thickness
@@ -701,7 +701,7 @@ RGB=RGB
 肘周りの幅=Elbow Width
 肘周りの奥=Elbow Thickness
 前腕=Forearm Thickness
- 
+
 ; Body -> Legs
 太もも上の幅=Upper Thigh Width
 太もも上の奥=Upper Thigh Thickness
@@ -712,18 +712,18 @@ RGB=RGB
 ふくらはぎ=Calves
 足首の幅=Ankle Width
 足首の奥=Ankle Thickness
- 
+
 ; Body -> Nails
 爪の色=Nail Color
 爪のツヤの強さ=Nail Gloss
- 
+
 ; Body -> Pubic Hair
 陰毛の種類=Pubic Hair Type
 陰毛の色=Pubic Hair Color
 陰毛の色を髪と眉に反映する=Copy Pubic Hair Color To Hair And Eyebrows
 陰毛の色を眉の色に合わせる=Copy Eyebrow Color To Pubic Hair
 陰毛の色を髪の色に合わせる=Copy Hair Color To Pubic Hair
- 
+
 ; Body -> Pubic Hair -> Pubic Hair Types
 四角=Rectangular
 小三角=Small Triangle
@@ -737,11 +737,11 @@ RGB=RGB
 大縦長=Wide And Wispy
 横長=Broad
 そり跡=Pubic Stubble
- 
+
 ; Body -> Suntan
 日焼け跡の種類=Suntan Type
 日焼け跡の色=Suntan Color
- 
+
 ; Body -> Body Paint
 ;Paint 01 Type
 ;Paint 01 Color
@@ -757,13 +757,13 @@ RGB=RGB
 ペイント０２上下補正=Paint 02 Vertical
 ;Paint 02 Rotation
 ペイント０２サイズ補正=Paint 02 Size
- 
+
 ; Body -> Body Paint -> Body Paint Misc. Labels
 ボディーペイント０１の配置=Body Paint 01 Position
 ボディーペイント０２の配置=Body Paint 02 Position
 ボディーペイント０１の種類=Body Paint 01 Selection
 ボディーペイント０２の種類=Body Paint 02 Selection
- 
+
 ; Body -> Body Paint -> Body Paint Location
 腹・股間=Midriff
 背中・うなじ=Between Shoulder Blades
@@ -784,17 +784,17 @@ RGB=RGB
 左腕=Left Forearm
 右肩=Right Upper Arm
 右腕=Right Forearm
- 
+
 ;
 ; Hair Menu
 ;
- 
+
 後ろ髪=Back
 前髪=Front
 横髪=Side
 エクステ=Extensions
 その他=Miscellaneous
- 
+
 ; Hair -> General Hair Settings
 前髪・後ろ髪・横髪・エクステの色を統一する=Share Color With All Hairs
 根本と毛先の色を個別に設定する=Enable Root And Tip Color Adjustment
@@ -803,13 +803,13 @@ RGB=RGB
 髪の色を眉の色に合わせる=Copy Eyebrow Color To Hair Base
 髪の色を陰毛の色に合わせる=Copy Pubic Hair Color To Hair Base
 アウトラインの色=Outline Color
- 
+
 ; Hair -> Hair Accessory Options
 髪飾りの色①=Hair Accessory Color ①
 髪飾りの色②=Hair Accessory Color ②
 髪飾りの色③=Hair Accessory Color ③
 髪飾りの色を初期に戻す=Set Accessory Color To Default
- 
+
 ; Hair -> Back Hair
 後ろ髪の種類=Back Hair Type
 後ろ髪の基本の色=Back Hair Base Color
@@ -817,7 +817,7 @@ RGB=RGB
 後ろ髪の毛先の色=Back Hair Tip Color
 後ろ髪のアウトラインの色=Back Hair Outline Color
 後ろ髪の装飾の色０１=Back Hair Accessory 01 Color
- 
+
 ; Hair -> Back Hair -> Hair Types
 ロングヘア=Long Hair
 ロングサイドテール(左)=Long Side Tail (L)
@@ -847,7 +847,7 @@ RGB=RGB
 ツーサイドアップ=Twin Side-Ups
 ストレートミディアム=Straight Medium
 セミロング=Semi-Long
- 
+
 ; Hair -> Bangs
 前髪の種類=Front Hair Type
 前髪の長さ=Front Hair Length
@@ -856,7 +856,7 @@ RGB=RGB
 前髪の毛先の色=Front Hair Tip Color
 前髪のアウトラインの色=Front Hair Outline Color
 前髪の装飾の色０１=Bangs Accessory 01 Color
- 
+
 ; Hair -> Bangs -> Bangs Types
 ストレート=Straight
 横はねカール(左)=Swept-Out Curl (L)
@@ -894,7 +894,7 @@ M字バングストレート(左)=M-Shaped Straight Bangs (L)
 M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横分けヘア(左)=Sideswept Parted (L)
 横分けヘア(右)=Sideswept Parted (R)
- 
+
 ; Hair -> Side Hair
 横髪の種類=Side Hair Type
 横髪の基本の色=Side Hair Base Color
@@ -902,14 +902,14 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横髪の毛先の色=Side Hair Tip Color
 横髪のアウトラインの色=Side Hair Outline Color
 横髪の装飾の色０１=Side Hair Accessory 01 Color
- 
+
 ; Hair -> Side Hair -> Side Hair Types
 ほそロング=Fine And Long
 おさげ=Twintails
 太い=Thick
 ふとロング=Thick And Long
 はねロング=Feathered Long
- 
+
 ; Hair -> Extensions
 エクステの種類=Extension Type
 付け毛の種類=Ahoge Type
@@ -917,7 +917,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 エクステの根本の色=Extension Root Color
 エクステの毛先の色=Extension Tip Color
 エクステのアウトラインの色=Extension Outline Color
- 
+
 ; Hair -> Extensions -> Extension Types
 ちょび=Tiny
 くるくる=Curled
@@ -926,10 +926,10 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 触覚(2本)=Ahoge (Twin)
 はね毛=Featherlike
 長触覚=Long Ahoge
- 
+
 ; Hair -> Miscellaneous
 ツヤの種類=Highlight Type
- 
+
 ; Hair -> Miscellaneous -> Highlight Types
 髪のツヤ種類=Hair Highlight Type
 線ハイライト=Line Highlight
@@ -937,11 +937,11 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 雷ハイライト=Lightning Bolt Highlight
 帯ハイライト=Band Highlight
 四角ハイライト=Square Highlight
- 
+
 ;
 ; Clothing Menu
 ;
- 
+
 トップス=Top
 ボトムス=Bottom
 ブラ=Bra
@@ -951,7 +951,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 靴下=Legwear
 靴(内履き)=Indoor Shoes
 靴(外履き)=Outdoor Shoes
- 
+
 ; Clothing -> Shared Options
 柄の種類=Pattern Type
 胴の種類=Body Type
@@ -971,7 +971,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 柄③の大きさ(幅)=Pattern ③ Width
 柄③の大きさ(高さ)=Pattern ③ Height
 柄③の色=Pattern Color ③
- 
+
 ; Clothing -> Shared Cloth Patterns
 ストライプ=Vertical Stripes
 斜めストライプ=Slanted Stripes
@@ -1011,11 +1011,11 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 変則ストライプ=Irregular Vertical Stripes
 変則ボーダー=Irregular Horizontal Stripes
 ;Circle
- 
+
 ; Clothing -> Misc. Options
 オプション①を表示=Show Option ①
 オプション②を表示=Show Option ②
- 
+
 ; Clothing -> Top Labels
 トップスの色０１=Top 01 Color
 トップス柄の色０１=Top Pattern 01 Color
@@ -1025,7 +1025,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 トップス柄の色０３=Top Pattern 03 Color
 トップスの色０４=Top 04 Color
 トップス柄の色０４=Top Pattern 04 Color
- 
+
 ; Clothing -> Bottom Labels
 ボトムスの色０１=Bottom 01 Color
 ボトムス柄の色０１=Bottom Pattern 01 Color
@@ -1033,7 +1033,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ボトムス柄の色０２=Bottom Pattern 02 Color
 ボトムスの色０３=Bottom 03 Color
 ボトムス柄の色０３=Bottom Pattern 03 Color
- 
+
 ; Clothing -> Bra Labels
 ブラの色０１=Bra 01 Color
 ブラ柄の色０１=Bra Pattern 01 Color
@@ -1041,7 +1041,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ブラ柄の色０２=Bra Pattern 02 Color
 ブラの色０３=Bra 03 Color
 ブラ柄の色０３=Bra Pattern 03 Color
- 
+
 ; Clothing -> Underwear Labels
 ショーツの色０１=Underwear 01 Color
 ショーツ柄の色０１=Underwear Pattern 01 Color
@@ -1049,7 +1049,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ショーツ柄の色０２=Underwear Pattern 02 Color
 ショーツの色０３=Underwear 03 Color
 ショーツ柄の色０３=Underwear Pattern 03 Color
- 
+
 ; Clothing -> Glove Labels
 手袋の色０１=Glove 01 Color
 手袋柄の色０１=Glove Pattern 01 Color
@@ -1057,7 +1057,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 手袋柄の色０２=Glove Pattern 02 Color
 手袋の色０３=Glove 03 Color
 手袋柄の色０３=Glove Pattern 03 Color
- 
+
 ; Clothing -> Pantyhose Labels
 パンストの色０１=Pantyhose 01 Color
 パンスト柄の色０１=Pantyhose Pattern 01 Color
@@ -1065,7 +1065,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 パンスト柄の色０２=Pantyhose Pattern 02 Color
 パンストの色０３=Pantyhose 03 Color
 パンスト柄の色０３=Pantyhose Pattern 03 Color
- 
+
 ; Clothing -> Legwear Labels
 靴下の色０１=Legwear 01 Color
 靴下柄の色０１=Legwear Pattern 01 Color
@@ -1073,7 +1073,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 靴下柄の色０２=Legwear Pattern 02 Color
 靴下の色０３=Legwear 03 Color
 靴下柄の色０３=Legwear Pattern 03 Color
- 
+
 ; Clothing -> Shoe Labels
 内履きの色０１=Indoor Shoe 01 Color
 内履き柄の色０１=Indoor Shoe Pattern 01 Color
@@ -1087,7 +1087,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 外履き柄の色０２=Outdoor Shoe Pattern 02 Color
 外履きの色０３=Outdoor Shoe 03 Color
 外履き柄の色０３=Outdoor Shoe Pattern 03 Color
- 
+
 ; Clothing -> Tops
 トップスを初期の状態に戻す=Restore Default Top Settings
 トップスの種類=Top Type
@@ -1100,7 +1100,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 装飾の柄の大きさ(高さ)=Decoration Pattern Height
 装飾の柄の色=Decoration Pattern Color
 エンブレムの種類=Emblem Type
- 
+
 ; Clothing -> Top -> Top Type
 セーラータイプ=Sailor Type
 ジャケットタイプ=Jacket Type
@@ -1151,7 +1151,7 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 裸エプロン=Naked Apron
 ロングワイシャツ=Long Dress Shirt
 ショルダーレスブラウス=Blouse With Shoulder Lace
- 
+
 ; Clothing -> Top -> Innerwear Types
 ワイシャツ=Dress Shirt
 ワイシャツ襟開け=Dress Shirt (Opened Collar)
@@ -1161,7 +1161,7 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 ;Gym Clothing
 ;Camisole
 ノースリーブシャツ=Sleeveless Dress Shirt
- 
+
 ; Clothing -> Top -> Outerwear Types
 ブレザーA=Blazer A
 ブレザーA前開き=Blazer A (Opened)
@@ -1176,14 +1176,14 @@ Tシャツ無地(男)=Plain T-Shirt (Male)
 うさ耳パーカー=Rabbit-Ears Parka
 ポンチョコート=Poncho Coat
 エプロン=Apron
- 
+
 ; Clothing -> Top -> Decoration Types
 リボン=Ribbon
 細リボン=Fine Ribbon
 ネクタイ=Necktie
 ルーズネクタイ短=Loose Necktie (Short)
 ルーズネクタイ長=Loose Necktie (Long)
- 
+
 ; Clothing -> Top -> Emblem Types
 赤と青=Red And Blue
 C=Letter C
@@ -1208,11 +1208,11 @@ H=Letter H
 番号01=Number 01
 番号02=Number 02
 番号03=Number 03
- 
+
 ; Clothing -> Bottom
 ボトムスを初期の状態に戻す=Restore Default Bottom Settings
 ボトムスの種類=Bottom Type
- 
+
 ; Clothing -> Bottom -> Bottom Types
 ブルマ=Bloomers
 ショートジャージ=Short Jersey Shorts
@@ -1245,11 +1245,11 @@ H=Letter H
 キュロットスカート=Culotte Skirt
 ハーフパンツ=Half Pants
 キュートパンツ=Cute Pants
- 
+
 ; Clothing -> Bra
 ブラを初期の状態に戻す=Restore Default Bra Settings
 ブラの種類=Bra Type
- 
+
 ; Clothing -> Bra Types
 リボンブラ=Ribbon Bra
 レーストップブラ=Lace Top Bra
@@ -1274,11 +1274,11 @@ H=Letter H
 ハイレグレオタード=High-Leg Leotard
 ; Damn it Illusion
 ハイレグレオタード =High-Leg Leotard
- 
+
 ; Clothing -> Underwear
 ショーツを初期の状態に戻す=Restore Default Underwear Settings
 ショーツの種類=Underwear Type
- 
+
 ; Clothing -> Underwear -> Underwear Types
 リボンショーツ=Ribbon Panties
 レーストップショーツ=Lace Topped Panties
@@ -1295,11 +1295,11 @@ H=Letter H
 オープンレースショーツ=Open Lace Panties
 エレガントショーツ=Elegant Panties
 エンブレムシール(下)=Emblem Seal (Lower)
- 
+
 ; Clothing -> Gloves
 手袋を初期の状態に戻す=Restore Default Glove Settings
 手袋の種類=Glove Type
- 
+
 ; Clothing -> Glove Types
 弓かけ=Archery Glove
 小悪魔手袋=Devil Gloves
@@ -1308,11 +1308,11 @@ H=Letter H
 指先絆創膏右手=Right Hand Fingertip Bandage
 ;Gloves
 長手袋=Long Gloves
- 
+
 ; Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
 パンストの種類=Pantyhose Type
- 
+
 ; Clothing -> Pantyhose Types
 パンストA=Pantyhose A
 パンストB=Pantyhose B
@@ -1323,11 +1323,11 @@ H=Letter H
 ガーターベルト=Garter Belt
 網タイツ=Fishnet Tights
 レギンス=Leggings
- 
+
 ; Clothing -> Legwear
 靴下を初期の状態に戻す=Restore Default Legwear Settings
 靴下の種類=Legwear Types
- 
+
 ; Clothing -> Legwear Types
 ハイソックス=High Socks
 色分けハイソックス=Colored Cuff High Socks
@@ -1346,12 +1346,12 @@ H=Letter H
 レッグウォーマー=Leg Warmers
 ; Damn it Illusion
 レッグウォーマー =Leg Warmers
- 
+
 ; Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
 外履きを初期の状態に戻す=Restore Default Outdoor Shoe Settings
 靴の種類=Shoe Type
- 
+
 ; Clothing -> Shoe Types
 ローファー=Loafers
 上履き=Uwabaki
@@ -1380,7 +1380,7 @@ H=Letter H
 草履=Zori
 ハイカットスニーカー=High-Cut Sneakers
 ダンスシューズ=Dance Shoes
- 
+
 ; Clothing -> Copy Menu
 コピー元のコーディネート=Uniform Source
 コピー先のコーディネート=Uniform Destination
@@ -1389,16 +1389,16 @@ H=Letter H
 パーツC=Part C
 全選択=All
 全解除=None
- 
+
 ;
 ; Accessory Menu
 ;
- 
+
 ; Accessory Main Menu Options
 タイプや種類変更時に前回の親を引き継ぐ=Use Previous Parent When Changing Accessory Type
 種類変更時に前回の色を引き継ぐ=Use Previous Color When Changing Accessory
 タイプ=Type
- 
+
 ; Slot Lists
 ; Illusion is extra fucking derpy and cannot into numbers - yes, both sets are needed
 スロット01=Slot 01
@@ -1431,7 +1431,7 @@ H=Letter H
 スロット19=Slot 19
 スロット20=Slot 20
 入れ替え=Transfer
- 
+
 ; Slot Type Labels
 髪=Hair
 頭=Head
@@ -1440,7 +1440,7 @@ H=Letter H
 胴=Torso
 手=Hands
 股間周り=Crotch
- 
+
 ; Slot Menu Dialogue
 種類=Type
 親=Parent
@@ -1464,7 +1464,7 @@ H=Letter H
 ※ アクセサリの表示をまとめて切り替える時の=※ You can use this to hide
 　 グループ分けです。=　a whole group of accessories at once.
 　 サブに設定するとH開始時に非表示になります。=　The Sub group will be hidden during H-Scenes.
- 
+
 ; Fun Slot Adjustment Shit
 スロット01の親を選択=Slot 01 Parent Selection
 スロット01の調整01=Slot 01 Adjustment 01
@@ -1526,7 +1526,7 @@ H=Letter H
 スロット20の親を選択=Slot 20 Parent Selection
 スロット20の調整01=Slot 20 Adjustment 01
 スロット20の調整02=Slot 20 Adjustment 02
- 
+
 ; Slot Colors
 スロット01 カラー①=Slot 01 Color ①
 スロット01 カラー②=Slot 01 Color ②
@@ -1608,7 +1608,7 @@ H=Letter H
 スロット20 カラー②=Slot 20 Color ②
 スロット20 カラー③=Slot 20 Color ③
 スロット20 カラー④=Slot 20 Color ④
- 
+
 ; Accessory Movement Dialogue
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
 移動量=Movement Amount
@@ -1631,7 +1631,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 値をコピー=Copy Value
 値を貼り付け=Paste Value
 全てリセット=Reset All
- 
+
 ; Accessory Parent List
 親を選択=Parent Selection
 ---------------------- 髪 ----------------------=---------------------- Hair ----------------------
@@ -1696,7 +1696,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 男根根本=Penis
 女性器=Vagina
 尻穴=Anus
- 
+
 ;Accessory Dialogue Box Label List
 アクセサリ（髪）の種類=Accessory (Hair) Type
 アクセサリ（頭）の種類=Accessory (Head) Type
@@ -1708,7 +1708,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 アクセサリ（腕）の種類=Accessory (Arms) Type
 アクセサリ（手）の種類=Accessory (Hands) Type
 アクセサリ（股間）の種類=Accessory (Crotch) Type
- 
+
 ; Accessories -> Hair
 ヘアピン=Hairpin
 クロスヘアピン=Cross Hairpin
@@ -1727,7 +1727,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ハイビスカス=Hibiscus
 花の髪飾り（揺れ）=Flower Ornament (Can Move)
 牡丹の髪飾り=Tree Peony Ornament
- 
+
 ; Accessories -> Head
 ;Ribbon
 ヘアバンド=Hairband
@@ -1761,7 +1761,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 うさぎの着ぐるみ頭=Rabbit Costume Head
 いぬの着ぐるみ頭=Dog Costume Head
 三角巾=Bandanna
- 
+
 ; Accessories -> Face
 スクエア=Square Glasses
 ウェリントン=Wellington Glasses
@@ -1796,7 +1796,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 ;Third Eye
 ワンポイント=Starpoint Earring
 土星=Saturn Earring
- 
+
 ; Accessories -> Neck
 マフラー=Muffler
 ロングネクタイ=Long Necktie
@@ -1816,7 +1816,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 一粒ペンダント=Starpoint Pendant
 星のペンダント=Star Pendant
 土星のペンダント=Saturn Pendant
- 
+
 ; Accessories -> Torso
 リュックサック=Backpack
 背負いボストン=Boston Bag
@@ -1834,7 +1834,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 天使の翼左用=Left Angel Wing
 天使の翼右用=Right Angel Wing
 ギターケース=Guitar Case
- 
+
 ; Accessories -> Hips
 腰巻カーディガン=Wrapped Cardigan
 エレガントリボン=Elegant Ribbon
@@ -1847,13 +1847,13 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 キツネ尻尾=Fox Tail
 エレキギター=Electric Guitar
 ベルト=Belt
- 
+
 ; Accessories -> Legs
 チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
 チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
 フリルガーターリング（左）=Frilly Garter Ribbon (Left)
 フリルガーターリング（右）=Frilly Garter Ribbon (Right)
- 
+
 ; Accessories -> Arms
 ナイロンボストンA=Nylon Boston Bag A
 ナイロンボストンB=Nylon Boston Bag B
@@ -1871,7 +1871,7 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 拘束バンド右用=Right Restraint
 カフス左用=Left Cuff
 カフス右用=Right Cuff
- 
+
 ; Accessories -> Hands
 革カバン=Leather Bag
 指示棒=Guide Rod
@@ -1893,11 +1893,11 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 お金持ちの指輪=Diamond Ring
 アナルバイブ=Anal Vibrator
 電気マッサージ器=Vibrating Wand
- 
+
 ; Accessories -> Crotch
 バイブ=Vibrating Dildo
 ;Anal Vibrator
- 
+
 ; Accessories -> Transfer Menu
 コピー元を選択して下さい=Item Source
 コピー先を選択して下さい=Item Destination
@@ -1909,16 +1909,16 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 調整②をコピー=Copy Adjustment ②
 調整②を左右反転コピー=Flip Adjustment ② Hor. On Copy
 調整②を上下反転コピー=Flip Adjustment ② Ver. On Copy
- 
+
 ;
 ; Profile Menu
 ;
- 
+
 キャラ=Character
 エッチ=Perversions
 質問=Nature
 個性=Traits
- 
+
 ; Profile -> Character
 名前=Name
 愛称=Nickname
@@ -1932,7 +1932,7 @@ A=A
 B=B
 O=O
 AB=AB
- 
+
 ; Profile -> Character -> Personality Types
 性格を選択=Personality Selection
 セクシー=Sexy
@@ -1965,7 +1965,7 @@ AB=AB
 意地っ張り=Stubborn
 のじゃっ子=Old-Fashioned Girl
 素直クール=Docile
- 
+
 ; Profile -> Character -> Club Types
 帰宅部=Going Home Club
 水泳部=Swimming Club
@@ -1973,15 +1973,15 @@ AB=AB
 チアリーディング部=Cheerleading Club
 茶道部=Tea Ceremony Club
 陸上部=Track And Field Club
- 
+
 ; Profile -> Character -> Name Box
 名前を入力して下さい=Please Enter A Name
 姓=L
 名=F
- 
+
 ; Profile -> Character -> Nickname Box
 愛称を入力して下さい=Please Enter A Nickname
- 
+
 ; Profile -> Perversions
 性感帯=Erogenous Zone
 キスを拒否しない？=Won't Refuse Kisses?
@@ -1989,7 +1989,7 @@ AB=AB
 アナルを拒否しない？=Won't Refuse Anal Sex?
 電マを拒否しない？=Won't Refuse Vibrating Toys?
 ゴム付けなくてもOK？=Sex Without Condoms Is Okay?
- 
+
 ; Profile -> Perversions -> Erogenous Zone Types
 ;None
 唇=Lips
@@ -1998,7 +1998,7 @@ AB=AB
 アナル=Anus
 尻=Butt
 乳首=Nipples
- 
+
 ; Profile -> Nature
 動物は好き？=Likes Animals?
 食べるのは好き？=Likes To Eat?
@@ -2009,7 +2009,7 @@ AB=AB
 コーヒーはブラック？=Drinks Their Coffee Black?
 からいのは平気？=Okay With Spicy Food?
 甘いのは好き？=Likes Sweets?
- 
+
 ; Profile -> Traits
 頻尿=Pees Often
 チョロイ=Simple
@@ -2028,17 +2028,17 @@ AB=AB
 活発=Lively
 綺麗好き=Likes Cleanliness
 一人好き=Likes Being Alone
- 
+
 ;
 ; File Menu
 ;
- 
+
 キャラ読込み=Load Character
 キャラ保存と削除=Save/Delete Character
 服読込み=Load Clothing
 服の保存と削除=Save/Delete Clothing
 コンフィグ=Configuration
- 
+
 ; File Menu -> Load Character
 キャラ一覧=Character List
 日付=Date
@@ -2049,18 +2049,18 @@ AB=AB
 キャラ情報=Character Information
 コーディネートセット=Clothing Sets
 読込み=Load
- 
+
 ; File Menu -> Save/Delete Character
 削除=Delete
 新規保存=Save New
 上書き保存=Save
- 
+
 ; File Menu -> Save/Delete Character -> Replace Image
 キャラ画像を変更しますか？=Change This Character's Picture?
 変更して保存=New Image
 変更せず保存=Keep Image
 保存をやめる=Don't Save
- 
+
 ; File Menu -> Save Character -> Take Picture
 No Image=No Image
 学生証画像=Student Card Picture
@@ -2072,12 +2072,12 @@ No Image=No Image
 撮影=Take Picture
 保存=Save
 戻る=Cancel
- 
+
 ; File Menu -> Load Clothing
 コーディネート一覧=Clothing Sets List
 服=Clothes
 アクセサリ=Accessories
- 
+
 ; File Menu -> Load Clothing -> Clothing Set Options
 教師=Classroom Teacher
 チアガール=Cheerleader
@@ -2090,10 +2090,10 @@ No Image=No Image
 ;Swimsuit
 ;Gym Uniform
 学生服=School Uniform
- 
+
 ; File Menu -> Save Clothing -> Dialogue Box
 コーディネート名を入力して下さい=Please Enter A Name For The Clothing Set
- 
+
 ; File Menu -> Configuration
 ※ キャラクターごとの設定ではなく、ゲーム全体の設定=※ These settings are not set per-character,
 　 となります。=　 instead they affect the entire game.
@@ -2104,7 +2104,7 @@ No Image=No Image
 BGMの音量=BGM Volume
 効果音の音量=Sound Effects Volume
 注視点を表示する=Show Crosshair
- 
+
 ; File Menu -> Configuration -> Shadow Types
 浅いなめらか影=Slight, Smooth Shadows
 浅いくっきり影=Slight, Sharp Shadows
@@ -2113,182 +2113,11 @@ BGMの音量=BGM Volume
 境界線のある影=Boundary Line Shadows
 完全なめらか影=Perfect, Smooth Shadows
 影なし=No Shadows
- 
+
 ; Miscellaneous Messages
-スペースキーで戻ります=Press spacebar to return
+スペースキーで戻ります=Spacebar To Return
 本当に削除しますか？=Really Delete This?
 本当に上書きしますか？=Really Overwrite This?
 キャラメイクを終了しますか？=Quit The Character Maker?
 キャラ編集を終了しますか？=Quit Editing This Character?
-ゲームを終了しますか？=Quit the game?
-
-; ------------- GINGERCOCK ---------------
-; ----------------------------------------	Title Menu
-
-; note: localized for space, mostly. no one's gonna use this anyway
-ランキングに参加=Get ranked!
-
-; note: changed data to file for comprehension's sake
-ロードデータを選択して下さい=Choose a file to load.
-
-; note; can't figure out where this one shows up
-オートセーブのデータから再開します=Resume from an auto-save.
-
-; ----------------------------------------	Options Menu (not organized)
-; Video Settings ----------------------------
-
-; note: literally "screen settings," also "video settings," shortened for consistency
-描画設定=Video
-
-; todo: rename to post-processing effects? because that's what this is
-カメラエフェクト=Camera Effects
-
-; note: all of these are, in literal tl, "make x work," which sounds like garbage. since they're simple checkboxes I'll just leave x
-
-アンビエントオクルージョンを有効にする=Ambient Occlusion
-被写界深度を有効にする=Depth of Field
-
-; note: this one has an explanation for japs, I don't think it's needed for us
-ビネットを有効にする（画面の周囲を暗くする効果）=Vignette
-
-フォグを有効にする=Fog
-ブルームを有効にする=Bloom
-
-; todo: rename to godrays? leave the literal sun shafts?
-サンシャフトを有効にする（光の木漏れ日表現）=Volumetric Lighting
-
-; note: only one that doesn't fit the "post-processing" umbrella, afaict
-セルフシャドウを有効にする=Self Shadows
-
-; todo: consider naming these "low" "normal" "high"; for context, when you press these, checkboxes get checked or unchecked, so they correspond to graphical detail
-軽い=Simple
-標準=Normal
-綺麗=Pretty
-
-; note: mess with overflow on this one
-影とアウトライン=Shadows & Outlines
-
-; Text -----------------------------------
-
-テキスト=Text
-スキップ=Skip
-
-; note: what I want to do with those can't be done because of the limit space, so I've gone with something temporary
-既読=Read
-全て=All
-
-選択肢後スキップ継続=Keep skipping after choices
-
-; todo: change this to fit but also make sense
-選択肢後オート継続=Keep auto-reading after choices
-
-; todo: rephrase
-次のテキスト表示時に音声を停止=Interrupt voice when showing next line
-
-; todo: change to simply "speed"? you are in the text settings after all; literal: "rate at which letters are shown"
-文字表示速度=Letter Speed
-
-遅=Slow
-速=Fast
-自動送り待ち時間=Auto Mode waiting time
-短=Short
-長=Long
-テキストウィンドウ=Text Window
-主人公のフォント=Protagonist Font
-
-; todo: doesn't get replaced, with or with no spaces
-ヒロインのフォント=Heroine Font
-
-; Sound ----------------------------------
-
-サウンド=Sound
-全般=General Sound
-マスター音量=Master Volume
-
-; todo: change to "ambience" or "ambient sound effects?" depends if we want brevity or consistency
-環境音=Ambient Sound
-
-; todo: change Sound Effects to SFX?
-システムSE=System Sound Effects
-ゲームSE=Game Sound Effects
-
-音声=Voices
-養護教諭=School Nurse
-数学教師=Math Teacher
-
-; todo: definitely rephrase this garbage
-語学教師(担任)=Language Teacher (Homeroom)
-
-モブ=NPCs
-
-; Sexual ---------------------------------
-
-ON/OFF=On/Off
-男の体表示=Show Male's Body
-男根表示=Show Penis
-
-; todo: rephrase this garbage
-男の単色化=Make Male Monochromatic
-
-男の服表示=Show Male's Clothes
-男のメインアクセサリー表示=Show Male's Main Accessories
-男のサブアクセサリー表示=Show Male's Sub Accessories
-男の靴表示=Show Male's Shoes
-
-; todo: find a way to clarify it's the female looking into/facing the camera
-常に視線をカメラに向ける=Always Look Into Camera
-常に首をカメラに向ける=Always Face Camera
-
-; todo: clarify it's about the level, like, the classroom or whatever you fuck your chinese anime girl in
-マップの表示=Show Map
-マップの遮蔽表示=Show Map Shadows
-
-; todo; I have no idea tbh
-カメラ初期化判断=Reset Camera Position
-
-
-汁物の表現=Show Liquids
-無し=None
-3D詳細=Complex 3D
-3D簡易=Simple 3D
-
-; todo: clarify it's about the monochromatic setting
-男の単色=Male Color
-
-; todo: literal is "show x on top/in the foreground" but I localized it so you can tell what it actually does smh
-眉の最前面表示=Show Eyebrows Through Hair
-目の最前面表示=Show Eyes Through Hair
-
-; todo: figure out what blushing this is referring to
-頬赤の表示=Show Blushing
-
-注視点の表示=Show Crosshair
-
-; todo: literal is "always show(n) accessories, rephrase?
-アクセサリー常時表示=Shown Accessories
-
-; todo: maybe just make it "head"
-頭の一部=On Head
-
-; todo: maybe replace "increases the load" with "has a considerable effect" or something. currently doesn't get replaced so I'll complete translation later
-※ CPUやメモリーに負荷のかかる設定となります。=tesdt
-　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。
-　 その場合は、登校人数を減らすなどの調整をして下さい。
-※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=※ This setting increases the load on CPU and memory.
-
-; note: removed "settings" for brevity
-マップ移動設定=Map Movement
-
-; todo: literal is "left click movement" but what it actually does is make you auto-move when pressing left click, in other words it toggles movement. needs a rephrase asap
-左クリック移動=Left Click Toggles Movement
-
-;todo: Rephrase? We could just use "max. students" or even just "students" for clarity
-登校人数=Attending Students
-
-; todo: change to just "defaults"?
-初期化=Restore Defaults
-
-タイトル=Title Screen
-ゲーム終了=Quit Game
-
-設定を初期化しますか？=Restore settings to default?
+ゲームを終了しますか？=Quit The Game?
