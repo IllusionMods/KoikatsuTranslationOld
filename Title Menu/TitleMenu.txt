@@ -1,0 +1,170 @@
+; ------------- GINGERCOCK ---------------
+; ----------------------------------------	Title Menu
+
+; note: localized for space, mostly. no one's gonna use this anyway
+ランキングに参加=Get ranked!
+
+; note: changed data to file for comprehension's sake
+ロードデータを選択して下さい=Choose a file to load.
+
+; note; can't figure out where this one shows up
+オートセーブのデータから再開します=Resume from an auto-save.
+
+; ----------------------------------------	Options Menu (not organized)
+; Video Settings ----------------------------
+
+; note: literally "screen settings," also "video settings," shortened for consistency
+描画設定=Video
+
+; todo: rename to post-processing effects? because that's what this is
+カメラエフェクト=Camera Effects
+
+; note: all of these are, in literal tl, "make x work," which sounds like garbage. since they're simple checkboxes I'll just leave x
+
+アンビエントオクルージョンを有効にする=Ambient Occlusion
+被写界深度を有効にする=Depth of Field
+
+; note: this one has an explanation for japs, I don't think it's needed for us
+ビネットを有効にする（画面の周囲を暗くする効果）=Vignette
+
+フォグを有効にする=Fog
+ブルームを有効にする=Bloom
+
+; todo: rename to godrays? leave the literal sun shafts?
+サンシャフトを有効にする（光の木漏れ日表現）=Volumetric Lighting
+
+; note: only one that doesn't fit the "post-processing" umbrella, afaict
+セルフシャドウを有効にする=Self Shadows
+
+; todo: consider naming these "low" "normal" "high"; for context, when you press these, checkboxes get checked or unchecked, so they correspond to graphical detail
+軽い=Simple
+標準=Normal
+綺麗=Pretty
+
+; note: mess with overflow on this one
+影とアウトライン=Shadows & Outlines
+
+; Text -----------------------------------
+
+テキスト=Text
+スキップ=Skip
+
+; note: what I want to do with those can't be done because of the limit space, so I've gone with something temporary
+既読=Read
+全て=All
+
+選択肢後スキップ継続=Keep skipping after choices
+
+; todo: change this to fit but also make sense
+選択肢後オート継続=Keep auto-reading after choices
+
+; todo: rephrase
+次のテキスト表示時に音声を停止=Interrupt voice when showing next line
+
+; todo: change to simply "speed"? you are in the text settings after all; literal: "rate at which letters are shown"
+文字表示速度=Letter Speed
+
+遅=Slow
+速=Fast
+自動送り待ち時間=Auto Mode waiting time
+短=Short
+長=Long
+テキストウィンドウ=Text Window
+主人公のフォント=Protagonist Font
+
+; todo: doesn't get replaced, with or with no spaces
+ヒロインのフォント=Heroine Font
+
+; Sound ----------------------------------
+
+サウンド=Sound
+全般=General Sound
+マスター音量=Master Volume
+
+; todo: change to "ambience" or "ambient sound effects?" depends if we want brevity or consistency
+環境音=Ambient Sound
+
+; todo: change Sound Effects to SFX?
+システムSE=System Sound Effects
+ゲームSE=Game Sound Effects
+
+音声=Voices
+養護教諭=School Nurse
+数学教師=Math Teacher
+
+; todo: definitely rephrase this garbage
+語学教師(担任)=Language Teacher (Homeroom)
+
+モブ=NPCs
+
+; Sexual ---------------------------------
+
+ON/OFF=On/Off
+男の体表示=Show Male's Body
+男根表示=Show Penis
+
+; todo: rephrase this garbage
+男の単色化=Make Male Monochromatic
+
+男の服表示=Show Male's Clothes
+男のメインアクセサリー表示=Show Male's Main Accessories
+男のサブアクセサリー表示=Show Male's Sub Accessories
+男の靴表示=Show Male's Shoes
+
+; todo: find a way to clarify it's the female looking into/facing the camera
+常に視線をカメラに向ける=Always Look Into Camera
+常に首をカメラに向ける=Always Face Camera
+
+; todo: clarify it's about the level, like, the classroom or whatever you fuck your chinese anime girl in
+マップの表示=Show Map
+マップの遮蔽表示=Show Map Shadows
+
+; todo; I have no idea tbh
+カメラ初期化判断=Reset Camera Position
+
+
+汁物の表現=Show Liquids
+無し=None
+3D詳細=Complex 3D
+3D簡易=Simple 3D
+
+; todo: clarify it's about the monochromatic setting
+男の単色=Male Color
+
+; todo: literal is "show x on top/in the foreground" but I localized it so you can tell what it actually does smh
+眉の最前面表示=Show Eyebrows Through Hair
+目の最前面表示=Show Eyes Through Hair
+
+; todo: figure out what blushing this is referring to
+頬赤の表示=Show Blushing
+
+注視点の表示=Show Crosshair
+
+; todo: literal is "always show(n) accessories, rephrase?
+アクセサリー常時表示=Shown Accessories
+
+; todo: maybe just make it "head"
+頭の一部=On Head
+
+; todo: maybe replace "increases the load" with "has a considerable effect" or something. currently doesn't get replaced so I'll complete translation later
+※ CPUやメモリーに負荷のかかる設定となります。=tesdt
+　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。
+　 その場合は、登校人数を減らすなどの調整をして下さい。
+※ この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=※ This setting increases the load on CPU and memory.
+
+; note: removed "settings" for brevity
+マップ移動設定=Map Movement
+
+; todo: literal is "left click movement" but what it actually does is make you auto-move when pressing left click, in other words it toggles movement. needs a rephrase asap
+左クリック移動=Left Click Toggles Movement
+
+;todo: Rephrase? We could just use "max. students" or even just "students" for clarity
+登校人数=Attending Students
+
+; todo: change to just "defaults"?
+初期化=Restore Defaults
+
+タイトル=Title Screen
+ゲーム終了=Quit Game
+
+設定を初期化しますか？=Restore settings to default?
