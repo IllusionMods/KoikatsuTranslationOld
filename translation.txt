@@ -2122,7 +2122,6 @@ BGMの音量=BGM Volume
 キャラ編集を終了しますか？=Quit Editing This Character?
 ゲームを終了しますか？=Quit the game?
 
-; ------------- GINGERCOCK ---------------
 ; ----------------------------------------	Title Menu
 
 ; note: localized for space, mostly. no one's gonna use this anyway
