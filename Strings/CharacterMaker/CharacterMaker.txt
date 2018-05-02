@@ -9,7 +9,7 @@
 コピー=Copy
 
 ; Used as both a Profile heading as well as a clothing type
-部活=Club Activity
+部活=Club Activities
 
 ; Used as a clothing outfit type as well as clothing, period
 体操着=Gym Uniform
@@ -186,7 +186,7 @@ NO=No
 ;
 
 コーディネートタイプ=Outfit Type
-学生服（校内）=School Uniform
+学生服（校内）=At School
 学生服（下校）=Going Home
 水着=Swimsuit
 私服=Casual Clothes
@@ -951,10 +951,10 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 トップス=Top
 ボトムス=Bottom
 ブラ=Bra
-ショーツ=Underwear
+ショーツ=Panties
 手袋=Gloves
 パンスト=Pantyhose
-靴下=Legwear
+靴下=Socks
 靴(内履き)=Indoor Shoes
 靴(外履き)=Outdoor Shoes
 

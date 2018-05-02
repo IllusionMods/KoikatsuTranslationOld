@@ -1,0 +1,12 @@
+「とりあえず……こんなもんかな」="That should be enough... for the time being."
+ある程度の片づけを終えたところで、これから生活する自室を見渡す。=After tidying it up a bit, I look around the room I'll be living in from now on.
+
+「明日から新しい学園での生活が始まるのか」="I'll be attending a new school starting tomorrow."
+一息つきながら、真新しい制服を見つめる。=I catch my breath and look towards my brand new uniform. 
+俺の名前は『[P名前]』。=My name is [P名前]. // removed the emphasis
+この春から父親が海外転勤することになり、家族会議の結果、=
+両親は海外に、俺は叔母の家の近くに建つアパートで独り暮らしをすることになった。=
+転勤族であるうちの家族は、これまで何度か引っ越しを経験している。=
+しかし、海外転勤は初めてのことで、俺にとって独り暮らしも初めての事だった。=
+クラスメイトと仲良くなれるだろうか、友達はできるだろうか。=
+期待、不安、色んな気持ちが頭をかすめていく。=
