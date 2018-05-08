@@ -1,0 +1,12 @@
+UnityWhite=NightMenu/UnityWhite.png
+sp_37_00_00=NightMenu/sp_37_00_00.png
+sp_37_00_03=NightMenu/sp_37_00_03.png
+sp_37_01_03=NightMenu/sp_37_01_03.png
+sp_37_00_02=NightMenu/sp_37_00_02.png
+sp_37_01_02=NightMenu/sp_37_01_02.png
+sp_37_00_05=NightMenu/sp_37_00_05.png
+sp_37_01_05=NightMenu/sp_37_01_05.png
+sp_37_00_04=NightMenu/sp_37_00_04.png
+sp_37_01_04=NightMenu/sp_37_01_04.png
+sp_37_00_01=NightMenu/sp_37_00_01.png
+sp_37_01_01=NightMenu/sp_37_01_01.png

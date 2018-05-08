@@ -1,0 +1,6 @@
+SpriteAtlasTexture-H (Group 0)-1024x1024-fmt12=HProc/SpriteAtlasTexture-H (Group 0)-1024x1024-fmt12.png
+mm_exit=HProc/mm_exit.png
+SpriteAtlasTexture-talk (Group 2)-256x256-fmt4=HProc/SpriteAtlasTexture-talk (Group 2)-256x256-fmt4.png
+SpriteAtlasTexture-H (Group 1)-128x256-fmt10=HProc/SpriteAtlasTexture-H (Group 1)-128x256-fmt10.png
+sm_base=HProc/sm_base.png
+sm_select=HProc/sm_select.png
