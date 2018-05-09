@@ -2048,10 +2048,6 @@ XYZの文字を左右ドラッグでも調整できます=You can also adjust X/
 音声調整(低-高)=Voice Pitch (Low - High)
 日=Day
 月=Mo.
-A=A
-B=B
-O=O
-AB=AB
 
 ; Profile -> Character -> Female Personality Types
 性格を選択=Personality Selection
@@ -2064,27 +2060,27 @@ AB=AB
 大和撫子=Yamato Nadeshiko
 ボーイッシュ=Boyish
 純真無垢=Pure
-単純=Blunt
-邪気眼=Evil Eye
+単純=Simple
+邪気眼=Delusional
 母性的=Motherly
 姉御肌=Big Sisterly
 ギャル=Gyaru
-不良少女=Bad Girl
+不良少女=Delinquent
 野生的=Wild
 意識高いクール=Wannabe
-ひねくれ=Crabby
-不幸少女=Unlucky Girl
-文学少女=Bookish Girl
-モジモジ=Nervous
-正統派ヒロイン=Traditional Schoolgirl
+ひねくれ=Reluctant
+不幸少女=Pessimist
+文学少女=Bookish
+モジモジ=Timid
+正統派ヒロイン=Typical Schoolgirl
 ミーハー=Trendy
-オタク女子=Otaku Girl
+オタク女子=Otaku
 ヤンデレ=Yandere
 ものぐさ=Lazy
 無口=Quiet
 意地っ張り=Stubborn
-のじゃっ子=Old-Fashioned Girl
-素直クール=Docile
+のじゃっ子=Old-Fashioned
+素直クール=Humble
 
 ; Profile -> Male Personality Types
 ; Less personality types and more setting the male between two sets of opposite elements
