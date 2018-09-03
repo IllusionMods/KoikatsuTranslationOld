@@ -204,7 +204,6 @@ title_load_select=_ENG/title_load_select.png
 title_male=_ENG/title_male.png
 title_male_on=_ENG/title_male_on.png
 title_male_select=_ENG/title_male_select.png
-title_menu_base=_ENG/title_menu_base.png
 title_other=_ENG/title_other.png
 title_other_off=_ENG/title_other_off.png
 title_other_on=_ENG/title_other_on.png
