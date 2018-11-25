@@ -1,0 +1,21 @@
+﻿1013729952,0,169,False,自室,FALSE
+1013729953,0,35,False,0,自室
+1013729954,0,37,False,adv_ev_00_camera,Camera
+1013729955,0,37,False,adv_ev_00_chara,Chara
+1013729956,0,117,False,0,Pajamas
+1013729957,0,128,False,0,3,1
+1013729958,0,125,False,0,1
+1013729959,0,112,False,0,微笑
+1013729960,0,106,False,0,Stand_Joy_00
+1013729961,0,44,False,out,,,,none
+1013729962,0,17,True,0,sound/data/pcm/c33/adv/17.unity3d,adv_ev_33_045
+-258908792,0,16,False,[H名],「あら、シャワーの音で起こしちゃった？　もうちょっと寝かせてあげたかったんだけど……」
+1013729964,0,19,True,0,笑顔
+1013729965,0,18,True,0,Stand_33_00,adv/motion/controller/adv/17.unity3d,cf_adv_33_00,adv/motion/iklist/17.unity3d,cf_adv_33_00
+1013729966,0,17,True,0,,adv_ev_33_046
+-404298701,0,16,False,[H名],「うふふ、私の湯上り姿ですっかり目がさめちゃったみたいね」
+1013729968,0,45,False,FALSE
+1013729969,0,44,False,in,,,,none
+1013729970,0,128,False,0,0,1
+1013729971,0,125,False,0,0
+1013729972,0,22,False,

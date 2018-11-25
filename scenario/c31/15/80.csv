@@ -1,0 +1,20 @@
+﻿610470631,0,169,False,裏庭,FALSE
+610470632,0,35,False,0,裏庭
+610470633,0,37,False,adv_ev_00_camera,Camera
+610470634,0,37,False,adv_ev_00_chara,Chara
+610470635,0,128,False,0,3,1
+610470636,0,125,False,0,1
+610470637,0,112,False,0,微笑
+610470638,0,106,False,0,Stand_31_00,adv/motion/controller/adv/15.unity3d,cf_adv_31_00,adv/motion/iklist/15.unity3d,cf_adv_31_00
+610470639,0,44,False,Out,,,,none
+610470640,0,17,True,0,sound/data/pcm/c31/adv/15.unity3d,adv_ev_31_164
+-883988654,0,16,False,[H名],「ふぅ、今日も無事、購買戦争に勝ち抜けたな」
+1863537586,0,16,False,[P名],「うんうん、ヤキソバパン二人分買えてよかったね」
+610470643,0,19,True,0,疑問
+610470644,0,17,True,0,,adv_ev_31_165
+565442198,0,16,False,[H名],「ん？　それは両方とも私のものだと思っていたが、おまえも欲しいのか？」
+370057715,0,16,False,[P名],「えっ！　お、おねがいします！　おめぐみください！」
+610470647,0,45,False,FALSE
+610470648,0,44,False,in,,,,none
+610470649,0,1,True,System.Int32,jumpNo02,80
+610470650,0,21,False,,82,FALSE,TRUE,TRUE
