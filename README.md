@@ -1,3 +1,5 @@
+## This repository was merged into the main translation project [here](https://github.com/IllusionMods/KoikatsuTranslation)
+
 # KoikatsuTranslation
 
 This is an English-language translation of the Illusion eroge [Koikatsu.](http://illusion.jp/preview/koikatu/) By making use of [BepInEx](https://github.com/BepInEx/BepInEx) and specific [BepisPlugins for Koikatsu](https://github.com/bbepis/BepisPlugins), we are able to provide a translation for the game. Please note that translation won't be instant - our team is small, and there is a lot of dialogue to translate in the game.
